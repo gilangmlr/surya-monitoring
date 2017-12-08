@@ -1,0 +1,11 @@
+Time : 05:30:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'staff' in 'field list'
+Raw SQL : INSERT INTO stp (compA, compB, compC, compD, bak1, bak2, bak3, bak4, bak5, bak6, bakKontrol7, submerPump1, submerPump2, chlorine, boxPanel, panel, exhaustFan, ruangan, penerangan, lantai, atap, dinding, tangki, checkDate, checker, note, finding) values(0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 2017-12-08, staff, no, fi)
+
+Time : 05:29:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'staff' in 'field list'
+Raw SQL : INSERT INTO stp (compA, compB, compC, compD, bak1, bak2, bak3, bak4, bak5, bak6, bakKontrol7, submerPump1, submerPump2, chlorine, boxPanel, panel, exhaustFan, ruangan, penerangan, lantai, atap, dinding, tangki, checkDate, checker, note, finding) values(0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 2017-12-08, staff, no, fi)
+
+Time : 05:26:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' no, fi,)' at line 1
+Raw SQL : INSERT INTO stp (compA, compB, compC, compD, bak1, bak2, bak3, bak4, bak5, bak6, bakKontrol7, submerPump1, submerPump2, chlorine, boxPanel, panel, exhaustFan, ruangan, penerangan, lantai, atap, dinding, tangki, checkDate, checker, note, finding) values( 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 2017-12-08, , no, fi,);

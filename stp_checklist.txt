@@ -1,0 +1,27 @@
+Comp A (bacwash)
+Comp B (Biofiltration)
+Comp C (Biofiltration)
+Comp D (Anaerobik)
+Bak 1 (In Let)
+Bak 2 (anaerobik 1)
+Bak 3 (anaerobik 2)
+Bak 4 (biofiltration)
+Bak 5 (biofiltration)
+Bak 6 (biofiltration)
+Bak Kontrol 7 (out)
+Submer. Pump 1
+Submersible Pump 2
+Chlorine
+Box panel
+Panel (wirring)
+Exhaust Fan
+Ruangan
+Penerangan
+Lantai
+Atap
+Dinding
+Tangki
+Tgl/Bln/Thn *
+Checker *
+Note
+Finding

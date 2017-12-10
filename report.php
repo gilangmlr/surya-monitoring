@@ -65,11 +65,10 @@
       <div class="row">
         <h4><strong>STP Report</strong></h4>
         <?php
-          require_once(__DIR__ . '/stp.class.php');
-          require_once(__DIR__ . '/stp_checklist.php');
+          require_once(__DIR__ . '/classes/stp.class.php');
 
           $stpClass  = new STPClass();
-          $data     = $stpClass->show_checklist(false);
+          $data     = $stpClass->show_checklist();
           $data_num = count($data);
 
           // Show if exists
@@ -78,6 +77,7 @@
               <thead>
                 <tr>
                 ";
+            $stp_checklist = STPClass::$stp_arr;
             foreach ($stp_checklist as $key => $value) {
               $data_table .= "<th><center>$value</center></th>";
             }
@@ -88,7 +88,22 @@
             foreach ($data as $stp_data) {
               $data_table .= "<tr>";
               foreach ($stp_checklist as $key => $value) {
-                $data_table .= "<td>$stp_data[$value]</th>";
+                $mark = '';
+                switch ($stp_data[$value]) {
+                  case '0':
+                    $mark = '√';
+                    break;
+                  case '1':
+                    $mark = '∆';
+                    break;
+                  case '2':
+                    $mark = 'x';
+                    break;
+                  default:
+                    $mark = $stp_data[$value];
+                    break;
+                }
+                $data_table .= "<td>$mark</th>";
               }
               $data_table .= "</tr>";
             }

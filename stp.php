@@ -64,7 +64,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Comp A (bacwash): <br />
-                <input class="form-check-input" type="radio" name="compA" value="0"> √
+                <input class="form-check-input" type="radio" name="compA" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="compA" value="1"> ∆
                 <input class="form-check-input" type="radio" name="compA" value="2"> x
               </label>
@@ -72,7 +72,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Comp B (Biofiltration): <br />
-                <input class="form-check-input" type="radio" name="compB" value="0"> √
+                <input class="form-check-input" type="radio" name="compB" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="compB" value="1"> ∆
                 <input class="form-check-input" type="radio" name="compB" value="2"> x
               </label>
@@ -80,7 +80,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Comp C (Biofiltration): <br />
-                <input class="form-check-input" type="radio" name="compC" value="0"> √
+                <input class="form-check-input" type="radio" name="compC" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="compC" value="1"> ∆
                 <input class="form-check-input" type="radio" name="compC" value="2"> x
               </label>
@@ -88,7 +88,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Comp D (Anaerobik): <br />
-                <input class="form-check-input" type="radio" name="compD" value="0"> √
+                <input class="form-check-input" type="radio" name="compD" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="compD" value="1"> ∆
                 <input class="form-check-input" type="radio" name="compD" value="2"> x
               </label>
@@ -96,7 +96,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak 1 (In Let): <br />
-                <input class="form-check-input" type="radio" name="bak1" value="0"> √
+                <input class="form-check-input" type="radio" name="bak1" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bak1" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bak1" value="2"> x
               </label>
@@ -104,7 +104,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak 2 (anaerobik 1): <br />
-                <input class="form-check-input" type="radio" name="bak2" value="0"> √
+                <input class="form-check-input" type="radio" name="bak2" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bak2" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bak2" value="2"> x
               </label>
@@ -112,7 +112,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak 3 (anaerobik 2): <br />
-                <input class="form-check-input" type="radio" name="bak3" value="0"> √
+                <input class="form-check-input" type="radio" name="bak3" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bak3" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bak3" value="2"> x
               </label>
@@ -120,7 +120,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak 4 (biofiltration): <br />
-                <input class="form-check-input" type="radio" name="bak4" value="0"> √
+                <input class="form-check-input" type="radio" name="bak4" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bak4" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bak4" value="2"> x
               </label>
@@ -130,7 +130,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak 5 (biofiltration): <br />
-                <input class="form-check-input" type="radio" name="bak5" value="0"> √
+                <input class="form-check-input" type="radio" name="bak5" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bak5" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bak5" value="2"> x
               </label>
@@ -138,7 +138,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak 6 (biofiltration): <br />
-                <input class="form-check-input" type="radio" name="bak6" value="0"> √
+                <input class="form-check-input" type="radio" name="bak6" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bak6" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bak6" value="2"> x
               </label>
@@ -146,7 +146,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Bak Kontrol 7 (out): <br />
-                <input class="form-check-input" type="radio" name="bakKontrol7" value="0"> √
+                <input class="form-check-input" type="radio" name="bakKontrol7" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="bakKontrol7" value="1"> ∆
                 <input class="form-check-input" type="radio" name="bakKontrol7" value="2"> x
               </label>
@@ -154,7 +154,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Submersible Pump 1: <br />
-                <input class="form-check-input" type="radio" name="submerPump1" value="0"> √
+                <input class="form-check-input" type="radio" name="submerPump1" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="submerPump1" value="1"> ∆
                 <input class="form-check-input" type="radio" name="submerPump1" value="2"> x
               </label>
@@ -162,7 +162,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Submersible Pump 2: <br />
-                <input class="form-check-input" type="radio" name="submerPump2" value="0"> √
+                <input class="form-check-input" type="radio" name="submerPump2" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="submerPump2" value="1"> ∆
                 <input class="form-check-input" type="radio" name="submerPump2" value="2"> x
               </label>
@@ -170,7 +170,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Chlorine: <br />
-                <input class="form-check-input" type="radio" name="chlorine" value="0"> √
+                <input class="form-check-input" type="radio" name="chlorine" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="chlorine" value="1"> ∆
                 <input class="form-check-input" type="radio" name="chlorine" value="2"> x
               </label>
@@ -178,7 +178,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Box Panel: <br />
-                <input class="form-check-input" type="radio" name="boxPanel" value="0"> √
+                <input class="form-check-input" type="radio" name="boxPanel" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="boxPanel" value="1"> ∆
                 <input class="form-check-input" type="radio" name="boxPanel" value="2"> x
               </label>
@@ -186,7 +186,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Panel (wirring): <br />
-                <input class="form-check-input" type="radio" name="panel" value="0"> √
+                <input class="form-check-input" type="radio" name="panel" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="panel" value="1"> ∆
                 <input class="form-check-input" type="radio" name="panel" value="2"> x
               </label>
@@ -196,7 +196,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Exhaust Fan: <br />
-                <input class="form-check-input" type="radio" name="exhaustFan" value="0"> √
+                <input class="form-check-input" type="radio" name="exhaustFan" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="exhaustFan" value="1"> ∆
                 <input class="form-check-input" type="radio" name="exhaustFan" value="2"> x
               </label>
@@ -204,7 +204,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Ruangan: <br />
-                <input class="form-check-input" type="radio" name="ruangan" value="0"> √
+                <input class="form-check-input" type="radio" name="ruangan" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="ruangan" value="1"> ∆
                 <input class="form-check-input" type="radio" name="ruangan" value="2"> x
               </label>
@@ -212,7 +212,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Penerangan: <br />
-                <input class="form-check-input" type="radio" name="penerangan" value="0"> √
+                <input class="form-check-input" type="radio" name="penerangan" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="penerangan" value="1"> ∆
                 <input class="form-check-input" type="radio" name="penerangan" value="2"> x
               </label>
@@ -220,7 +220,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Lantai: <br />
-                <input class="form-check-input" type="radio" name="lantai" value="0"> √
+                <input class="form-check-input" type="radio" name="lantai" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="lantai" value="1"> ∆
                 <input class="form-check-input" type="radio" name="lantai" value="2"> x
               </label>
@@ -228,7 +228,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Atap: <br />
-                <input class="form-check-input" type="radio" name="atap" value="0"> √
+                <input class="form-check-input" type="radio" name="atap" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="atap" value="1"> ∆
                 <input class="form-check-input" type="radio" name="atap" value="2"> x
               </label>
@@ -236,7 +236,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Dinding: <br />
-                <input class="form-check-input" type="radio" name="dinding" value="0"> √
+                <input class="form-check-input" type="radio" name="dinding" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="dinding" value="1"> ∆
                 <input class="form-check-input" type="radio" name="dinding" value="2"> x
               </label>
@@ -244,7 +244,7 @@
             <div class="form-check">
               <label class="form-check-label">
                 Tangki: <br />
-                <input class="form-check-input" type="radio" name="tangki" value="0"> √
+                <input class="form-check-input" type="radio" name="tangki" value="0" checked=""> √
                 <input class="form-check-input" type="radio" name="tangki" value="1"> ∆
                 <input class="form-check-input" type="radio" name="tangki" value="2"> x
               </label>
